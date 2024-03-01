@@ -1,0 +1,4 @@
+# keep node_modules out from github repo
+s3_reverse_proxy/node_modules
+build_server/node_modules
+api_server/node_modules
